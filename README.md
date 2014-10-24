@@ -1,4 +1,4 @@
 btab
 ====
 
-Another new tab extension for chrome.
+Another new tab extension for Google Chrome.

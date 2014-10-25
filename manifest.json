@@ -3,9 +3,9 @@
 	{
 		"newtab": "newtab.html"
 	},
-	"description": "Another \"New Tab\" page which only list your bookmarks.",
+	"description": "Another new tab extension which just lists bookmarks.",
 	"manifest_version": 2,
 	"name": "btab",
 	"permissions": [ "bookmarks", "chrome://favicon/*"],
-	"version": "0.0.1"
+	"version": "0.1.0"
 }

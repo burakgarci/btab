@@ -2,6 +2,10 @@
 
 Another new tab extension for Google Chrome which just lists bookmarks.
 
+# Screenshot
+![btab Screenshot]
+(https://raw.githubusercontent.com/burakgarci/btab/master/screenshot.png)
+
 # How btab Works? *(Initial Release)*
 
 - Scans for "btab" folder in "Other Bookmarks".

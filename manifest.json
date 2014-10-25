@@ -1,0 +1,11 @@
+{
+	"chrome_url_overrides":
+	{
+		"newtab": "newtab.html"
+	},
+	"description": "Another \"New Tab\" page which only list your bookmarks.",
+	"manifest_version": 2,
+	"name": "btab",
+	"permissions": [ "bookmarks", "chrome://favicon/*"],
+	"version": "0.0.1"
+}

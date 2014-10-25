@@ -1,6 +1,6 @@
 # btab
 
-Another new tab extension for Google Chrome which just lists.
+Another new tab extension for Google Chrome which just lists bookmarks.
 
 # How btab Works? *(Initial Release)*
 

@@ -8,14 +8,14 @@ Another new tab extension for Google Chrome which just lists bookmarks.
 ![btab Screenshot]
 (https://raw.githubusercontent.com/burakgarci/btab/master/images/screenshot.png)
 
-# How *Should* btab Work?
+# How btab Work?
 
 - Scans for "btab" folder in "Other Bookmarks".
 - If it founds "btab" folder, scans for bookmarks.
 - If it founds any bookmark, appends to page *(newtab.html#content)*.
 
 # To-do List
-- Icons
+- Extension icon
 - Internationalization
 - Options page
 

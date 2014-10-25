@@ -18,11 +18,12 @@ Another new tab extension for Google Chrome which just lists bookmarks.
 # Installation
 
 Since current releases are initial releases, there is no .crx file.
+
 You need to;
-- [download btab as zip archive](https://github.com/burakgarci/btab/archive/master.zip),
-- go to (chrome://extensions),
-- tick **Developer mode**,
-- click **Load unpacked extension...** button and select **btab-master** folder.
+- [Download btab as zip archive](https://github.com/burakgarci/btab/archive/master.zip) and extract,
+- Go to **chrome://extensions**,
+- Tick **Developer mode**,
+- Click **Load unpacked extension...** button and select extracted folder **btab-master**.
 
 # To-do List
 

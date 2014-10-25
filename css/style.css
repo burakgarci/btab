@@ -100,7 +100,7 @@ body {
 	margin-right: 5px;
 	opacity: 0.2;
 	vertical-align: middle;
-	transition: opacity .25s ease;
+	/*transition: opacity .25s ease;*/
 }
 #content li:hover img {
 	opacity: 1;

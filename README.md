@@ -34,4 +34,4 @@ You need to;
 
 **btab** is licensed under the [MIT license](http://www.opensource.org/licenses/mit-license.php).
 
-Extension icon made by **Victor Erixon** from [Flaticon](http://flaticon.com) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+Extension icon designed by **Victor Erixon** from [Flaticon](http://flaticon.com) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)

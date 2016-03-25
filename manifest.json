@@ -14,5 +14,5 @@
 	"manifest_version": 2,
 	"name": "btab",
 	"permissions": [ "bookmarks", "chrome://favicon/*"],
-	"version": "0.2.0"
+	"version": "0.2.1"
 }

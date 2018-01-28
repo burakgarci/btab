@@ -1,3 +1,6 @@
+# 2018.01.28
+not abandoned, will be developed.
+
 # btab
 
 Another new tab extension for Google Chrome which just lists bookmarks.

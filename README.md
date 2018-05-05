@@ -9,8 +9,7 @@ Another new tab extension for Google Chrome which just lists bookmarks.
 
 # Screenshot
 
-![btab Screenshot]
-(https://raw.githubusercontent.com/burakgarci/btab/master/images/screenshot.png)
+![btab Screenshot](https://raw.githubusercontent.com/burakgarci/btab/master/images/screenshot.png)
 
 # How btab Works
 
@@ -20,13 +19,7 @@ Another new tab extension for Google Chrome which just lists bookmarks.
 
 # Installation
 
-Since current releases are initial releases, there is no .crx file.
-
-You need to;
-- [Download btab as zip archive](https://github.com/burakgarci/btab/archive/master.zip) and extract,
-- Go to **chrome://extensions**,
-- Tick **Developer mode**,
-- Click **Load unpacked extension...** button and select extracted folder **btab-master**.
+You can install it from [Chrome Web Store](https://chrome.google.com/webstore/detail/btab/ojjhpknoaagdmjedhcimcickmmphnnbj)
 
 # To-do List
 
@@ -36,5 +29,3 @@ You need to;
 # License
 
 **btab** is licensed under the [MIT license](http://www.opensource.org/licenses/mit-license.php).
-
-Extension icon designed by **Victor Erixon** from [Flaticon](http://flaticon.com) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
